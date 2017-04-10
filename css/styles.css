@@ -1,0 +1,16 @@
+.black{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.white{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.marg{
+    margin-top: 10px;
+}
+#draggable {margin-left: 0px; width: 95px; height: 100px; z-index: 1; }
+
+
